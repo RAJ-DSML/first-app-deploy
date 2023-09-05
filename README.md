@@ -24,3 +24,11 @@ pip install -r requirements.txt
 ```
 uvicorn app:app --reload
 ```
+#### Step 6: Copy & Paste this url in the browser:
+```
+http://127.0.0.1:8000/docs
+```
+
+## Sample Images of Deployment
+### FastAPI Deployment Page and Prediction
+![Home-Page](https://github.com/RAJ-DSML/first-app-deploy/blob/main/animations/FastAPI_Prediction.gif)
